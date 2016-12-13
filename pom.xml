@@ -4,12 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sap.lbh</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>FreightOrderTendering_Parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-
-	<name>FreightOrderTendering_Parent</name>
-	<description>FreightOrderTendering Parent Project for dependency management</description>
 
   	<modules>
   		<module>
